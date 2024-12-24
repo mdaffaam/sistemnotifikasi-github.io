@@ -93,6 +93,11 @@ footer {
     left: 0;
 }
 
+#deskripsi {
+    padding-right: 5%;
+    text-align: justify;
+}
+
 #poster {
     padding: 20px;
     text-align: center;
